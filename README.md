@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 20-year-old undergraduate student based in India, pursuing Information Technology<br>I'm passionate about Data Science.<br>I'm an individual who wakes up early, consistently motivated, and continuously expands my knowledge in the ever-evolving field of technology.
+I'm a 20-year-old undergraduate student based in India, pursuing Information Technology<br>I'm passionate about Data Science.<br>I consistently motivated, and continuously expand my knowledge in the ever-evolving field of technology.
 
 
 ## 🌐 Socials:
